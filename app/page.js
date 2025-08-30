@@ -1,3 +1,4 @@
+import HeaderHome from "@/components/HeaderHome";
 import Navbar from "@/components/Navbar";
 import Prism from "@/components/Prism";
 
@@ -14,10 +15,13 @@ export default function Home() {
           hueShift={0}
           colorFrequency={1}
           noise={0}
-          glow={1}
+          glow={0.7}
         />
+        
       </div>
       <Navbar />
+      <HeaderHome />
+      
     </div>
   );
 }

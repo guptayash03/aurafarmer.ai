@@ -9,9 +9,12 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "framer-motion": "^12.23.12",
     "next": "15.5.0",
     "ogl": "^1.0.11",
     "react": "19.1.0",
+    "react-awesome-button": "^7.0.5",
     "react-dom": "19.1.0",
     "react-icons": "^5.5.0"
   },
