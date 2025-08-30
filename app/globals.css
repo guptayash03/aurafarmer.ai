@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap");
 @import "tailwindcss";
 
 :root {
@@ -13,7 +14,8 @@
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
   --font-rubik: "Rubik Distressed", cursive;
-  --font-Orbitron:"Orbitron ,"
+  --font-Orbitron: "Orbitron", sans-serif;
+  --font-Grotesk: "Space Grotesk", sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {

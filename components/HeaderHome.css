@@ -1,0 +1,9 @@
+.line {
+  background: linear-gradient(to right, rgb(6, 148, 51), #09a2f5);
+  text-shadow: 0 0 1px rgba(73, 236, 81, 0.902);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-emphasis-color: transparent;
+  
+}
